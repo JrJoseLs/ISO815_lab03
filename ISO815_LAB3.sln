@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ISO815_LAB3", "ISO815_LAB3\ISO815_LAB3.dtproj", "{47E9271B-B749-4D01-9F15-80F1489F0AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E9271B-B749-4D01-9F15-80F1489F0AD6}.Development|Default.ActiveCfg = Development
+		{47E9271B-B749-4D01-9F15-80F1489F0AD6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893D04E9-6136-42D7-84FD-7628116935F1}
+	EndGlobalSection
+EndGlobal
